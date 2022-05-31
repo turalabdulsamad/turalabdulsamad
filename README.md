@@ -70,7 +70,7 @@
 </p>
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frasulov&layout=compact&theme=buefy&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turalabdulsamad&layout=compact&theme=buefy&hide_border=true" /></a></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=frasulov&show_icons=true&theme=gotham" alt="frasulov" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turalabdulsamad&show_icons=true&theme=gotham" alt="turalabdulsamad" />
   
