@@ -1,15 +1,15 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Fagan
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Tural
 
-<p>I'm currently a software engineer at <strong><a href="https://www.technofusion.az">Technofusion</a></strong> and I am also CTO of the startup that is called <strong><a href="https://www.tutor.az">Tutor.az.</a></strong> I am working on some side projects, learning a couple new tech stacks.</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.technofusion.az">Technofusion</a></strong>
 
 ### Connect with me:
 
 <p>
-<a href="https://www.instagram.com/fagan_rasulov/">
-  <img align="left" alt="Fagan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/turaaall/">
+  <img align="left" alt="Tural's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/fagan-rasulov-115a001a3/">
-  <img align="left" alt="Fagan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tural-abdulsamad-1b1179194/">
+  <img align="left" alt="Tural's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
 
