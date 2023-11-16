@@ -5,10 +5,7 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.instagram.com/turaaall/">
-  <img align="left" alt="Tural's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/tural-abdulsamad-1b1179194/">
+<a href="https://www.linkedin.com/in/tural-abdulsamad/">
   <img align="left" alt="Tural's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
