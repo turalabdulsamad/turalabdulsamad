@@ -5,9 +5,7 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/tural-abdulsamad/">
-  <img align="left" alt="Tural's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/tural-abdulsamad/"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
 
 </br>
